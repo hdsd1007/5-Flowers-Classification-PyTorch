@@ -30,9 +30,9 @@ The following Python libraries are required to run the Jupyter Notebook:
 - `numpy`
 - `pandas`
 - `matplotlib`
-- `Pillow`
+-  `PIL`
 
 You can install these dependencies using `pip`:
 
 ```bash
-!pip install -q torch torchvision torchinfo numpy pandas matplotlib Pillow
+!pip install -q torch torchvision torchinfo numpy pandas matplotlib 
